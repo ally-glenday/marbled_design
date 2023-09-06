@@ -55,3 +55,31 @@ table {
 body{
     font-family: 'Outfit', sans-serif;
 }
+
+button{
+	width: 30vw;	
+	height: 20vh;
+	/* display: inline; */
+	float: right;
+	cursor: pointer;
+
+}
+
+
+span{
+		display: block;
+		width: 10vw;
+		height: 5vh;
+		border-bottom: 5px solid black; 
+}
+
+ul{
+	display: none;
+}
+
+
+/* ------------------------ Classes & IDs ------------------------- */ 
+
+.display-block{
+	display: block;
+}
